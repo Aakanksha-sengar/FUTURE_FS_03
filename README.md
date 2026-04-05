@@ -18,9 +18,7 @@ A professional, responsive website built for **Pooja Bakery**, located at BSNL R
 )
 
 ### Menu Section
-![Menu](<img width="1892" height="851" alt="Screenshot 2026-04-05 145258" src="https://github.com/user-attachments/assets/725e4acd-e124-4793-a63e-2f52cad33351" />
-)
-(<img width="1883" height="893" alt="Screenshot 2026-04-05 145330" src="https://github.com/user-attachments/assets/8d0e175a-4e65-4cb8-9f89-29101af00b35" />)
+![Menu](<img width="1892" height="851" alt="Screenshot 2026-04-05 145258" src="https://github.com/user-attachments/assets/725e4acd-e124-4793-a63e-2f52cad33351" />)(<img width="1883" height="893" alt="Screenshot 2026-04-05 145330" src="https://github.com/user-attachments/assets/8d0e175a-4e65-4cb8-9f89-29101af00b35" />)
 
 ### Gallery & Contact
 ![Gallery](<img width="1860" height="804" alt="Screenshot 2026-04-05 145359" src="https://github.com/user-attachments/assets/5c41644d-cbd9-4369-b71b-0dfd93b080fb" />

@@ -7,20 +7,24 @@ A professional, responsive website built for **Pooja Bakery**, located at BSNL R
 ---
 
 ## 🌐 Live Demo
-🔗 [Click here to view live site](https://YOUR-USERNAME.github.io/pooja-bakery-website/)
+🔗 [Click here to view live site](https://future-fs-03-gkbv.onrender.com)
 
 ---
 
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero](screenshots/hero.png)
+![Hero](<img width="1882" height="881" alt="Screenshot 2026-04-05 145202" src="https://github.com/user-attachments/assets/2f8250f0-179c-4316-b5fb-fb9a1016c865" />
+)
 
 ### Menu Section
-![Menu](screenshots/menu.png)
+![Menu](<img width="1892" height="851" alt="Screenshot 2026-04-05 145258" src="https://github.com/user-attachments/assets/725e4acd-e124-4793-a63e-2f52cad33351" />
+)
+(<img width="1883" height="893" alt="Screenshot 2026-04-05 145330" src="https://github.com/user-attachments/assets/8d0e175a-4e65-4cb8-9f89-29101af00b35" />)
 
 ### Gallery & Contact
-![Gallery](screenshots/gallery.png)
+![Gallery](<img width="1860" height="804" alt="Screenshot 2026-04-05 145359" src="https://github.com/user-attachments/assets/5c41644d-cbd9-4369-b71b-0dfd93b080fb" />
+)
 
 ---
 
